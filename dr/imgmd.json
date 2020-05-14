@@ -1,0 +1,11 @@
+cp.imagesJSONCacheForLocal=true;cp.imageToJSONPathMap={ 
+"dr/5813_176_314.png": "img1.json",
+"dr/6295_176_314.png": "img1.json",
+"dr/6403_351_516.png": "img1.json",
+"dr/7205_352_627.png": "img1.json",
+"dr/Slide10577_defaultTitleImage.png": "img1.json",
+"dr/loading.gif": "img1.json",
+"dr/si10618_q1_answer_0_mcComboboxTextbox_00002A33.png": "img1.json",
+"dr/si10618_q1_answer_0_mcComboboxTextbox_00002B89.png": "img1.json",
+"dr/si10618_q1_answer_0_mcComboboxTextbox_00002B8A.png": "img1.json",
+"___":"___"};
